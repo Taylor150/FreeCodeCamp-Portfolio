@@ -18,3 +18,12 @@ You can see my freecodecamp portfolio [here](https://www.freecodecamp.org/taylor
 
 <hr>
 
+# Tools & Resources
+
+Some of the online tools that I utilized while building some of my projects.
+
+[Color From Image](https://html-color-codes.info/colors-from-image/#)
+[Paletton](https://paletton.com/#uid=15x0u0kllllaFw0g0qFqFg0w0aF)
+[CSS Gradient](https://cssgradient.io/)
+[Bitly URL Shortener](https://app.bitly.com/Bk4tfaNh5qX/bitlinks/3f3Jr1X)
+
