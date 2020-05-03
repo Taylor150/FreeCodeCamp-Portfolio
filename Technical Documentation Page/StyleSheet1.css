@@ -1,0 +1,51 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@600&family=Lato&display=swap');
+
+#navbar {
+    text-decoration-style: none;
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
+    position: fixed;
+    width: 300px;
+    height: 100%;
+    background: rgb(255,255,255);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0.95) 85%, rgba(255,255,255,0.9026961126247374) 100%);
+    border-right: solid;
+    border-color: rgba(0, 22, 22, 0.4);
+}
+
+.nav-link {
+    font-family: Dosis;
+    font-weight: bold;
+    font-size: 20px;
+    list-style: none;
+    text-decoration: none;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 20px;
+}
+
+.main-section {
+    height: 100%;
+    width: 100%;
+    text-decoration-style: none;
+    list-style: none;
+    text-decoration: none;
+    width: 75%;
+    padding-left: 310px;
+}
+
+header {
+    font-family: Dosis;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+p,
+ul,
+li {
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 16px;
+}

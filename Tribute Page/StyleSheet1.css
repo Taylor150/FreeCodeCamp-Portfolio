@@ -1,0 +1,54 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap');
+
+title {
+    font-family: Roboto;
+    text-align: center;
+}
+
+h1 {
+    font-family: Roboto;
+    text-align: center;
+    color: #DEE8F1;
+    text-shadow: 2px 2px 2px 2px black;
+}
+
+h2 {
+    font-family: Montserrat;
+    text-align: center;
+}
+
+p {
+    font-family: Montserrat;
+    text-align: center;
+}
+
+figcaption {
+    font-family: Montserrat;
+    text-align: center;
+}
+
+a {
+    font-family: Montserrat;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    max-width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+figcaption {
+    text-align: center;
+}
+
+body {
+    background-color: #A6D9F8;
+}
+
+.align-class {
+    text-align: center;
+}

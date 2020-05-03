@@ -1,0 +1,145 @@
+﻿<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<!--
+
+Hello Camper!
+
+For now, the test suite only works in Chrome! Please read the README below in the JS Editor before beginning. Feel free to delete this message once you have read it. Good luck and Happy Coding!
+
+- The freeCodeCamp Team
+
+-->
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="StyleSheet1.css" />
+    <title>Computer Components Breakdown</title>
+</head>
+
+<body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script>
+        $(document).on('click', 'a', function (event) {
+            $('html, body').animate({
+                scrollTop: $($.attr(this, 'href')).offset().top
+            }, 1000);
+        });
+    </script>
+    <nav id="navbar">
+        <header>Computer Components Breakdown</header>
+        <br>
+        <a href="#Introduction" class="nav-link">Introduction</a>
+        <a href="#Motherboard" class="nav-link">Motherboard</a>
+        <a href="#Processor" class="nav-link">Processor</a>
+        <a href="#Memory" class="nav-link">Memory</a>
+        <a href="#Storage" class="nav-link">Storage</a>
+        <a href="#Graphics_Card" class="nav-link">Graphics Card</a>
+        <a href="#Summary" class="nav-link">Summary</a>
+    </nav>
+    <main id="main-doc">
+        <section id="Introduction" class="main-section">
+            <header>Introduction</header>
+            <p>To see how a PC works, let's start with the pieces that come together to make up the machine. The following are the components common to PCs in the order they're typically assembled</p>
+            <p>The main components that make up the internals of a Computer are:</p>
+            <ul>
+                <li>Motherboard</li>
+                <li>Processor</li>
+                <li>Memory</li>
+                <li>Storage</li>
+                <li>Graphics Card</li>
+            </ul>
+            <p>Of course all of these components require a source of power and a case to protect them. These will be covered in more detail in the summary.</p>
+            <code></code>
+        </section>
+        <hr />
+        <section id="Motherboard" class="main-section">
+            <header>Motherboard</header>
+            <p>The primary circuit board inside your PC is its motherboard. All components, inside and out, connect through the motherboard in some way. The other components listed on this page are removable and, thus, replaceable without replacing the motherboard. Several important components, though, are attached directly to the motherboard. These include the complementary metal-oxide semiconductor (CMOS), which stores some information, such as the system clock, when the computer is powered down. Motherboards come in different sizes and standards, the most common as of this writing being ATX and MicroATX. From there, motherboards vary by the type of removable components they're designed to handle internally and what ports are available for attaching external devices.</p>
+            <p><img src="https://bit.ly/2z2nccg" alt="Motherboard" /></p>
+            <p>The main motherboard manufacturers are:</p>
+            <ul>
+                <li>Gigabyte</li>
+                <li>ASUS</li>
+                <li>MSI</li>
+            </ul>
+            <code></code>
+        </section>
+        <hr />
+        <section id="Processor" class="main-section">
+            <header>Processor</header>
+            <p>The CPU, often just called the processor, is the component that contains the microprocessor. That microprocessor is the heart of all the PC's operations, and the performance of both hardware and software rely on the processor's performance. Intel and AMD are the largest CPU manufacturers for PCs, though you'll find others on the market, too. The two common CPU architectures are 32-bit and 64-bit, and you'll find that certain software relies on this architecture distinction.</p>
+            <p><img src="https://bit.ly/2WiZ5Op" alt="Processor" /></p>
+            <p>The main processor manufacturers are:</p>
+            <ul>
+                <li>Intel</li>
+                <li>AMD</li>
+            </ul>
+            <code></code>
+        </section>
+        <hr />
+        <section id="Memory" class="main-section">
+            <header>Memory</header>
+            <p>Even the fastest processor needs a buffer to store information while it's being processed. The RAM is to the CPU as a countertop is to a cook: It serves as the place where the ingredients and tools you're working with wait until you need to pick up and use them. Both a fast CPU and an ample amount of RAM are necessary for a speedy PC. Each PC has a maximum amount of RAM it can handle, and slots on the motherboard indicate the type of RAM the PC requires.</p>
+            <p><img src="https://bit.ly/2Ss17dQ" alt="Memory" /></p>
+            <p>The main memory manufacturers are:</p>
+            <ul>
+                <li>Samsung</li>
+                <li>Kingston</li>
+                <li>Corsair</li>
+            </ul>
+            <code></code>
+        </section>
+        <hr />
+        <section id="Storage" class="main-section">
+            <header>Storage</header>
+            <p>A drive is a device intended to store data when it's not in use. A hard drive or solid state drive stores a PC's operating system and software, which we'll look at more closely later. This category also includes optical drives such as those used for reading and writing CD, DVD and Blu-ray media. A drive connects to the motherboard based on the type of drive controller technology it uses, including the older IDE standard and the newer SATA standard.</p>
+            <p><img src="https://bit.ly/2YrlsUt" alt="Storage" /></p>
+            <p>The main storage manufacturers are:</p>
+            <ul>
+                <li>Western Digital</li>
+                <li>Crucial</li>
+                <li>Samsung</li>
+            </ul>
+            <code></code>
+        </section>
+        <hr />
+        <section id="Graphics_Card" class="main-section">
+            <header>Graphics Card</header>
+            <p>While some motherboards have on-board graphics, others include what's called an expansion slot, where you can slide in a separate video card. In both cases, the video components in a PC process some of the complex graphics data going to the screen, taking some of the load off your CPU. A motherboard accepts video cards based on a specific interface, such as the older AGP standard or one of the newer PCI standards.</p>
+            <p><img src="https://bit.ly/2yl0FY6" alt="Graphics Card" /></p>
+            <p>The main graphics card manufacturers are:</p>
+            <ul>
+                <li>Nvidia</li>
+                <li>AMD</li>
+            </ul>
+            <code></code>
+        </section>
+        <hr />
+        <section id="Summary" class="main-section">
+            <header>Summary</header>
+            <p>Other than its CMOS, which is powered by a replaceable CMOS battery on the motherboard, every component in your PC relies on its power supply. The power supply connects to some type of power source, whether that's a battery in the case of mobile computers, or a power outlet in the case of desktop PCs. In a desktop PC, you can see the power supply mounted inside the case with a power cable connection on the outside and a handful of attached cables inside. Some of these cables connect directly to the motherboard while others connect to other components like drives and fans.</p>
+            <p><img src="https://bit.ly/2Ss1ftQ" alt="Power Supply" /></p>
+            <p>The main power supply manufacturers are:</p>
+            <ul>
+                <li>Corsair</li>
+                <li>Cooler Master</li>
+                <li>Gigabyte</li>
+            </ul>
+            <p>If you're using a laptop, the computer case includes keyboard and screen. For desktop PCs, the case is typically some type of box with lights, vents, and places for attaching cables. The size of the case can vary from small tabletop units to tall towers. A larger case doesn't always imply a more powerful computer; it's what's inside that counts. PC builders design or select a case based on the type of motherboard that should fit inside.</p>
+            <p><img src="https://bit.ly/2KTV7GB" alt="Case" /></p>
+            <p>The main case manufacturers are:</p>
+            <ul>
+                <li>Fractal Design</li>
+                <li>NZXT</li>
+                <li>Antec</li>
+            </ul>
+            <code></code>
+        </section>
+        <hr />
+    </main>
+</body>
+
+</html>

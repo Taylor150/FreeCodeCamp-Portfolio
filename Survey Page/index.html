@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<title>Survey Form Project</title>
+
+<body id="body">
+  <main id="main">
+    <div class="container">
+      <header class="header">
+        <h1 id="title" class="text-center">Lockdown Survey</h1>
+      </header>
+      <p class="text-center" id="description">Thanks for taking your time to complete the survey</p>
+    </div>
+	<br>
+    <form id="survey-form">
+      <label for="name" id="name-label">1. What is your name?<br>
+        <input id="name" type="text" placeholder="John Smith" required>
+      </label>
+	  </br>
+	  <br>
+      <label for="email" id="email-label">2. What is your email?<br>
+        <input id="email" type="email" placeholder="@email.com" required>
+      </label>
+	  </br>
+	  <br>
+      <label for="number" id="number-label">3. How many times have you left your home?</label><br>
+      <input id="number" type="number" min="1" max="10" placeholder="5" required>
+	 </br>
+	 <br>
+      <label for="dropdown" id="dropdown-label">4. Have you had any contact with people outside your household?</label><br>
+      <select id="dropdown" placeholder="none">
+        <option value="none">none</option>
+        <option value="once">once</option>
+        <option value="twice">twice</option>
+        <option value="more than twice">more than twice</option>
+        <option value="a lot">a lot</option>
+      </select>
+      </br>
+	  <br>
+      <p>5. How do you feel about the measures put in place for the lockdown?</p>
+      <label for="radio">
+        <input id="Strongly Agree" type="radio" name="lockdown-measures" value="Strongly Agree">Strongly Agree
+      </label><br>
+      <label for="radio">
+        <input id="Agree" type="radio" name="lockdown-measures" value="Agree">Agree
+      </label></br>
+      <label for="radio">
+        <input id="Somewhat Agree" type="radio" name="lockdown-measures" value="Somewhat Agree">Somewhat Agree
+      </label><br>
+      <label for="radio">
+        <input id="Undecided" type="radio" name="lockdown-measures" value="Undecided">Undecided
+      </label><br>
+      <label for="radio">
+        <input id="Somewhat Disagree" type="radio" name="lockdown-measures" value="Somewhat Disagree">Somewhat Disagree
+      </label><br>
+      <label for="radio">
+        <input id="Disagree" type="radio" name="lockdown-measures" Value="Disagree">Disagree
+      </label><br>
+      <label for="radio">
+        <input id="Strongly Disagree" type="radio" name="lockdown-measures" Value="Strongly Disagree">Strongly Disagree
+      </label>
+	  </br>
+	  <br>
+	  <p>6. What have you been doing to keep entertained during the lockdown?</p>
+      <label for="checkbox">
+        <input id="Reading" type="checkbox" name="entertainment" value="Reading">Reading
+      </label><br>
+	  <label for="checkbox">
+        <input id="Learning" type="checkbox" name="entertainment" value="Learning">Learning
+      </label><br>
+	  <label for="checkbox">
+        <input id="Volunteering" type="checkbox" name="entertainment" value="Volunteering">Volunteering
+      </label><br>
+	  <label for="checkbox">
+        <input id="Exercising" type="checkbox" name="entertainment" value="Exercising">Exercising
+      </label><br>
+	  <label for="checkbox">
+        <input id="Binge Eating" type="checkbox" name="entertainment" value="Binge Eating">Binge Eating
+      </label><br>
+	  <label for="checkbox">
+        <input id="Watching Movies" type="checkbox" name="entertainment" value="Watching Movies">Watching Movies
+      </label>
+	  <br>
+	  <br>
+	  <label for="opinion" id="opinion">7. How much longer do you think the lockdown will stay in place and why?</label><br>
+        <textarea name="TextBox" id="text" cols="60" rows="5">5 days? 5 weeks? 5 months? maybe more, what do you thing?</textarea>
+		<br>
+		<br>
+    <input type="submit" id="submit" value="Finish Survey">
+	</form>
+  </main>
+</body>
+
+</html>
