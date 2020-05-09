@@ -13,8 +13,8 @@ You can see my freecodecamp portfolio [here](https://www.freecodecamp.org/taylor
 1. Build a tribute page - [Completed!](https://codepen.io/taylor150/pen/mdeObpw)
 2. Build a survey form - [Completed!](https://codepen.io/taylor150/pen/GRpNwww)
 3. Build a product landing page - [Completed!](https://codepen.io/taylor150/pen/OJyWdMX)
-4. Build a technical documentation page - [Completed](https://codepen.io/taylor150/pen/LYpOPoQ)
-5. Build a personal portfolio page - [Completed](https://codepen.io/taylor150/pen/xxwpYaO)
+4. Build a technical documentation page - [Completed!](https://codepen.io/taylor150/pen/LYpOPoQ)
+5. Build a personal portfolio page - [Completed!](https://codepen.io/taylor150/pen/xxwpYaO)
 
 <hr>
 
@@ -22,8 +22,8 @@ You can see my freecodecamp portfolio [here](https://www.freecodecamp.org/taylor
 
 Some of the online tools that I utilized while building some of my projects.
 
-[Color From Image](https://html-color-codes.info/colors-from-image/#)
-[Paletton](https://paletton.com/#uid=15x0u0kllllaFw0g0qFqFg0w0aF)
-[CSS Gradient](https://cssgradient.io/)
-[Bitly URL Shortener](https://app.bitly.com/Bk4tfaNh5qX/bitlinks/3f3Jr1X)
+1. [Color From Image](https://html-color-codes.info/colors-from-image/#)
+2. [Paletton](https://paletton.com/#uid=15x0u0kllllaFw0g0qFqFg0w0aF)
+3. [CSS Gradient](https://cssgradient.io/)
+4. [Bitly URL Shortener](https://app.bitly.com/Bk4tfaNh5qX/bitlinks/3f3Jr1X)
 
