@@ -29,4 +29,5 @@ Some of the online tools that I utilized while building some of my projects.
 2. [Paletton](https://paletton.com/#uid=15x0u0kllllaFw0g0qFqFg0w0aF)
 3. [CSS Gradient](https://cssgradient.io/)
 4. [Bitly URL Shortener](https://app.bitly.com/Bk4tfaNh5qX/bitlinks/3f3Jr1X)
+5. [Simple Icons](https://simpleicons.org/)
 
