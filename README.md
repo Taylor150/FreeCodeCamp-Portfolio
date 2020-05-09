@@ -16,6 +16,9 @@ You can see my freecodecamp portfolio [here](https://www.freecodecamp.org/taylor
 4. Build a technical documentation page - [Completed!](https://codepen.io/taylor150/pen/LYpOPoQ)
 5. Build a personal portfolio page - [Completed!](https://codepen.io/taylor150/pen/xxwpYaO)
 
+# Certificate
+<img src="Certification/Responsive Web Design.png">
+
 <hr>
 
 # Tools & Resources
