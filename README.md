@@ -9,19 +9,32 @@ You can see my freecodecamp portfolio [here](https://www.freecodecamp.org/taylor
 
 <hr>
 
-# Responsive Web Design
+## Responsive Web Design
 1. Build a tribute page - [Completed!](https://codepen.io/taylor150/pen/mdeObpw)
 2. Build a survey form - [Completed!](https://codepen.io/taylor150/pen/GRpNwww)
 3. Build a product landing page - [Completed!](https://codepen.io/taylor150/pen/OJyWdMX)
 4. Build a technical documentation page - [Completed!](https://codepen.io/taylor150/pen/LYpOPoQ)
 5. Build a personal portfolio page - [Completed!](https://codepen.io/taylor150/pen/xxwpYaO)
 
-# Certificate
+## Certificate
 <img src="Certification/Responsive Web Design.png">
 
 <hr>
 
-# Tools & Resources
+## Scientific Computing with Python
+1. Arithmetic Formatter - [In progress!]
+2. Time Calculator - [Not started]
+3. Budget App - [Not started]
+4. Polygon Area Calculator - [Not started]
+5. Probability Calculator - [Not started]
+
+
+## Certificate
+Not yet achieved
+
+<hr>
+
+###### Tools & Resources
 
 Some of the online tools that I utilized while building some of my projects.
 
@@ -30,4 +43,7 @@ Some of the online tools that I utilized while building some of my projects.
 3. [CSS Gradient](https://cssgradient.io/)
 4. [Bitly URL Shortener](https://app.bitly.com/Bk4tfaNh5qX/bitlinks/3f3Jr1X)
 5. [Simple Icons](https://simpleicons.org/)
+6. [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
+7. [Python](https://www.python.org/downloads/)
+8. [QT Designer](https://www.qt.io/download)
 
