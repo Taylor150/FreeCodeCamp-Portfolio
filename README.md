@@ -21,6 +21,19 @@ You can see my freecodecamp portfolio [here](https://www.freecodecamp.org/taylor
 
 <hr>
 
+## JavaScript Algorithms and Data Structures
+1. Palindrome Checker - [Completed!](https://codepen.io/taylor150/pen/ExWbVpg)
+2. Roman Numeral Converter - [In Progress!]
+3. Caesers Cipher - [Not started]
+4. Telephone Number Validator - [Not started]
+5. Cash Register - [Not started]
+
+
+## Certificate
+Not yet achieved
+
+<hr>
+
 ## Scientific Computing with Python
 1. Arithmetic Formatter - [In progress!]
 2. Time Calculator - [Not started]
