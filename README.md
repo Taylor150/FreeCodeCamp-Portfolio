@@ -23,9 +23,9 @@ You can see my freecodecamp portfolio [here](https://www.freecodecamp.org/taylor
 
 ## JavaScript Algorithms and Data Structures
 1. Palindrome Checker - [Completed!](https://codepen.io/taylor150/pen/ExWbVpg)
-2. Roman Numeral Converter - [In Progress!]
-3. Caesers Cipher - [Not started]
-4. Telephone Number Validator - [Not started]
+2. Roman Numeral Converter - [Completed!](https://codepen.io/taylor150/pen/MWpXqaV)
+3. Caesers Cipher - [Completed!](https://codepen.io/taylor150/pen/zYZaJrM)
+4. Telephone Number Validator - [In Progress!]
 5. Cash Register - [Not started]
 
 
