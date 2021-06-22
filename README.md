@@ -25,8 +25,8 @@ You can see my freecodecamp portfolio [here](https://www.freecodecamp.org/taylor
 1. Palindrome Checker - [Completed!](https://codepen.io/taylor150/pen/ExWbVpg)
 2. Roman Numeral Converter - [Completed!](https://codepen.io/taylor150/pen/MWpXqaV)
 3. Caesers Cipher - [Completed!](https://codepen.io/taylor150/pen/zYZaJrM)
-4. Telephone Number Validator - [In Progress!]
-5. Cash Register - [Not started]
+4. Telephone Number Validator - [Completed!](https://codepen.io/taylor150/pen/XWMwvGL)
+5. Cash Register - [In progress!]
 
 
 ## Certificate
