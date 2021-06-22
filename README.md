@@ -1,7 +1,7 @@
 # FreeCodeCamp-Portfolio
 Portfolio for my FreeCodeCamp Submissions and Certifications
 
-This is a place I plan to submit all of my previous and ongoing freecodecamp challenge submissions. At the time of writing this I have completed 4 out of the 5 challenges in order to complete the 'Responsive Web Design module'. After completion I plan to continue on to the next module which is 'JavaScript Algorithms and Data Structures'.
+This is a place I plan to submit all of my previous and ongoing freecodecamp challenge submissions. At the time of writing this I have completed the 'Responsive Web Design module'. I am currently one project away from completing 'JavaScript Algorithms and Data Structures'. I have also completed all of the courseware for 'Scientific Computing with Python', but yet to start the projects.
 
 <hr>
 
